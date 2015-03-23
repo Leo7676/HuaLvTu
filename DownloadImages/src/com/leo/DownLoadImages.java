@@ -1,6 +1,7 @@
 package com.leo;
 
 public class DownLoadImages implements Runnable {
+	//This is change test xp Leo 2015.3.23
 	GetPic gp=new GetPic();
 	@Override
 	public void run() {
